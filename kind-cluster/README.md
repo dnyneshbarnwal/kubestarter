@@ -2,7 +2,7 @@
 
 ## 1. Installing KIND and kubectl
 Install KIND and kubectl using the provided script:
-```bash
+```
 
 #!/bin/bash
 
